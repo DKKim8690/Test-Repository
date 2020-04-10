@@ -1,1 +1,2 @@
 plain text data to test sourcetree app.
+Github web에서 내용을 추가해봄. 로컬에서 탐지하는지 보려고
